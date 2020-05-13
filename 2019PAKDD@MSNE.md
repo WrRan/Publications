@@ -1,4 +1,5 @@
 **Title**: MSNE: A Novel Markov Chain Sampling Strategy for Network Embedding
+
 **Abstract**:
 > Network embedding methods have obtained great progresses on many tasks, such as
 > node classification and link prediction. Sampling strategy is very important in
