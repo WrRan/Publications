@@ -17,5 +17,6 @@
 
 **URL**: https://link.springer.com/chapter/10.1007/978-3-030-16142-2_9
 
-**Wiki**:
+**Wiki**: https://mp.weixin.qq.com/s/uoyzrfxSSvu92uiiLGkhrQ
 
+**Note**: Feel free to open issues if you have any questions. :)
