@@ -14,7 +14,7 @@
 > graph. Experimental results on ChID, a large-scale Chinese idiom reading comprehension dataset, show that our model
 > achieves state-of-the-art performance.
 
-**Source**: Dataset and code are available at https://github.com/nlpnju/SKER.
+**Source**: Dataset and code are available at https://github.com/njunlp/SKER.
 
 **URL**: https://arxiv.org/abs/2011.04499
 
