@@ -16,7 +16,7 @@
 
 **Source**: Dataset and code are available at https://github.com/njunlp/SKER.
 
-**URL**: https://arxiv.org/abs/2011.04499
+**URL**: https://www.aclweb.org/anthology/2020.coling-main.329/
 
 **Wiki**: None
 
