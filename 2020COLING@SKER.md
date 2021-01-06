@@ -18,6 +18,6 @@
 
 **URL**: https://www.aclweb.org/anthology/2020.coling-main.329/
 
-**Wiki**: None
+**Wiki**: https://mp.weixin.qq.com/s/6Db7Maynw46ggz-Mvh0udA
 
 **Note**: Feel free to open issues if you have any questions. :)
