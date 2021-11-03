@@ -17,7 +17,7 @@
 > reasoning module to a variety of strong neural-based base models and show that it is able
 > to boost performance significantly in each case
 
-**Source**: coming soon.
+**Source**: None
 
 **URL**: https://authors.elsevier.com/c/1c9NK15hYdjq9T
 
