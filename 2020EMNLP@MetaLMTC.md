@@ -1,4 +1,4 @@
-Title: A Novel Reasoning Mechanism for Multi-Label Text Classification
+Title: Meta-LMTC: Meta-Learning for Large-Scale Multi-Label Text Classification
 
 Abstract:
 
