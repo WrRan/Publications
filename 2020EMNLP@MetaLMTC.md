@@ -1,24 +1,22 @@
-Title: Contrastive Learning-Enhanced Nearest Neighbor Mechanism for Multi-Label Text Classification
+Title: Meta-LMTC: Meta-Learning for Large-Scale Multi-Label Text Classification
 
 Abstract:
 
-> Multi-Label Text Classification (MLTC) is a fundamental and challenging task in natural
-> language processing. Previous studies mainly focus on learning text representation and
-> modeling label correlation. However, they neglect the rich knowledge from the existing
-> similar instances when predicting labels of a specific text. To address this oversight,
-> we propose a k nearest neighbor (kNN) mechanism which retrieves several neighbor
-> instances and interpolates the model output with their labels. Moreover, we design a
-> multi-label contrastive learning objective that makes the model aware of the kNN 
-> classification process and improves the quality of the retrieved neighbors during inference.
-> Extensive experiments show that our method can bring consistent and considerable performance
-> improvement to multiple MLTC models including the state-of-the-art pretrained and 
-> non-pretrained ones.
+> Large-scale multi-label text classification (LMTC) tasks often face long-tailed label distributions,
+> where many labels have few or even no training instances. Although current methods can exploit prior 
+> knowledge to handle these few/zero-shot labels, they neglect the meta knowledge contained in the
+> dataset that can guide models to learn with few samples. In this paper, for the first time, this problem 
+> is addressed from a meta-learning perspective. However, the simple extension of meta-learning
+> approaches to multi-label classification is suboptimal for LMTC tasks due to long-tailed label
+> distribution and coexisting of few- and zero-shot scenarios. We propose a meta-learning approach
+> named META-LMTC. Specifically, it constructs more faithful and more diverse tasks according to well-designed
+> sampling strategies and directly incorporates the objective of adapting to new low-resource tasks into
+> the meta-learning phase. Extensive experiments show that META-LMTC achieves state-of-the-art performance
+> against strong baselines and can still enhance powerful BERTlike models.
+
 
 Source: None
 
 URL: https://aclanthology.org/2021.emnlp-main.679/
 
-Wiki: https://mp.weixin.qq.com/s/1Yauts8WXEoteQptM1zZVw
-
-Other:
- - Video from Xi'ao Su: https://www.bilibili.com/video/BV1dL4y1j7Ra
+Wiki: https://mp.weixin.qq.com/s/EAv8CtdsLWuwb7v1SJZfCA
